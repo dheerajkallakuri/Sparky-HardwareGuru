@@ -2,6 +2,9 @@
 
 Sparky is an interactive assistant designed to help users identify and understand various hardware and electronic components. By leveraging voice recognition and image processing, Sparky can respond to questions about tools and electronics, providing concise, layman-friendly explanations. Users can either ask about specific tools or show an image of a component.
 
+![img1](https://github.com/user-attachments/assets/712bad63-5a80-4765-a347-8285b194dc42)
+
+
 ## Features
 
 - **Voice Recognition**: Users can ask questions about hardware tools.
@@ -41,6 +44,15 @@ While developing Sparky, we encountered several challenges:
 
 We are proud to have successfully assembled an assistant that effectively responds to user inquiries and provides live detection of tools, along with accurate summaries. Achieving an accuracy rate of around 80% across six different classes is a significant milestone for us. This accomplishment showcases our ability to blend technology and user experience, allowing Sparky to serve as a reliable assistant in the realm of hardware and electronics.
 
+<table>
+  <tr>
+    <td colspan=2><img src="https://github.com/user-attachments/assets/451ef13f-0acb-4238-85c5-c541d2825a2e"></td>
+  </tr>
+  <tr>
+    <td> <img width=500px height=500px src="https://github.com/user-attachments/assets/e2f1b670-e3db-4045-9395-074e22366993"></td>
+     <td> <img width=500px height=500px src="https://github.com/user-attachments/assets/31e85947-9eda-4634-9db9-1aab416bf79d"> </td>
+  </tr>
+</table>
 
 ## Results of Computer Vision Model:
 <table>
