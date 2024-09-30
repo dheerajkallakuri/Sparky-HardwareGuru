@@ -1,8 +1,11 @@
 # Sparky - The Hardware Guru
 
-Sparky is an interactive assistant designed to help users identify and understand various hardware and electronic components. By leveraging voice recognition and image processing, Sparky can respond to questions about tools and electronics, providing concise, layman-friendly explanations. Users can either ask about specific tools or show an image of a component.
+Sparky is an interactive assistant designed to help users identify and understand various hardware and electronic components. By leveraging voice recognition and image processing, Sparky can respond to questions about tools and electronics, providing concise, layman-friendly explanations. Users can ask about specific tools or show components.
 
-![img1](https://github.com/user-attachments/assets/712bad63-5a80-4765-a347-8285b194dc42)
+## Demo Video
+[![Sparky Demo Video](https://img.youtube.com/vi/4DVWlnijJ0s/0.jpg)](https://youtu.be/4DVWlnijJ0s)
+
+Click the image above or [this link](https://youtu.be/4DVWlnijJ0s) to watch the video.
 
 
 ## Features
@@ -46,7 +49,7 @@ We are proud to have successfully assembled an assistant that effectively respon
 
 <table>
   <tr>
-    <td colspan=2><img src="https://github.com/user-attachments/assets/451ef13f-0acb-4238-85c5-c541d2825a2e"></td>
+    <td colspan=2><div align=center><img width=500px height=600px src="https://github.com/user-attachments/assets/451ef13f-0acb-4238-85c5-c541d2825a2e"></div></td>
   </tr>
   <tr>
     <td> <img width=500px height=500px src="https://github.com/user-attachments/assets/e2f1b670-e3db-4045-9395-074e22366993"></td>
