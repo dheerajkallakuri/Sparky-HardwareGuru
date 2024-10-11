@@ -3,10 +3,12 @@
 Sparky is an interactive assistant designed to help users identify and understand various hardware and electronic components. By leveraging voice recognition and image processing, Sparky can respond to questions about tools and electronics, providing concise, layman-friendly explanations. Users can ask about specific tools or show components.
 
 ## Demo Video
-[![Sparky Demo Video](https://img.youtube.com/vi/4DVWlnijJ0s/0.jpg)](https://youtu.be/4DVWlnijJ0s)
-
-Click the image above or [this link](https://youtu.be/4DVWlnijJ0s) to watch the video.
-
+<p align="center">
+    <a href="https://youtu.be/4DVWlnijJ0s" target="_blank">
+        <img src="https://img.youtube.com/vi/4DVWlnijJ0s/0.jpg" alt="Sparky Demo Video">
+    </a>
+</p>
+<p align="center">Click the image above or <a href="https://youtu.be/4DVWlnijJ0s" target="_blank">Video Link</a> to watch the video.</p>
 
 ## Features
 
